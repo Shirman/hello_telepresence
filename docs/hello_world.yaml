@@ -1,0 +1,41 @@
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: hello-world
+  name: hello-world
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: hello-world
+  template:
+    metadata:
+      labels:
+        app: hello-world
+    spec:
+      containers:
+      - image: 18868877621/hello-world:latest
+        name: hello-world
+        ports:
+        - name: severport
+          containerPort: 8080
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: hello-world
+  name: hello-world
+spec:
+  ports:
+  - port: 8080
+    name: severport
+    protocol: TCP
+    targetPort: 8080
+  selector:
+    app: hello-world
