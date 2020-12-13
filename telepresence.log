@@ -805,3 +805,329 @@
 3157.4  15 | 2020-12-13T05:25:01+0000 [Poll#info] Checkpoint
 3161.4 TEL | [133] Running: sudo -n echo -n
 3161.4 TEL | [133] ran in 0.04 secs.
+3187.4 TEL | (proxy checking local liveness)
+3187.4  15 | 2020-12-13T05:25:31+0000 [Poll#info] Checkpoint
+3191.5 TEL | [134] Running: sudo -n echo -n
+3191.5 TEL | [134] ran in 0.02 secs.
+3217.4 TEL | (proxy checking local liveness)
+3217.4  15 | 2020-12-13T05:26:01+0000 [Poll#info] Checkpoint
+3221.5 TEL | [135] Running: sudo -n echo -n
+3221.6 TEL | [135] ran in 0.03 secs.
+3247.4 TEL | (proxy checking local liveness)
+3247.4  15 | 2020-12-13T05:26:31+0000 [Poll#info] Checkpoint
+3251.6 TEL | [136] Running: sudo -n echo -n
+3251.7 TEL | [136] ran in 0.04 secs.
+3559.1 TEL | (proxy checking local liveness)
+3559.1  15 | 2020-12-13T05:27:01+0000 [Poll#info] Checkpoint
+3564.7 TEL | [137] Running: sudo -n echo -n
+3565.0 137 | sudo: a password is required
+3565.0 TEL | [137] exit 1 in 0.32 secs.
+3565.0 TEL | Attempt to hold on to sudo privileges failed
+3565.0 TEL | (sudo privileges holder thread exiting)
+3593.4 TEL | (proxy checking local liveness)
+3597.1  15 | 2020-12-13T05:32:20+0000 [Poll#info] Checkpoint
+3886.9 TEL | (proxy checking local liveness)
+3887.0  15 | 2020-12-13T05:32:29+0000 [Poll#info] Checkpoint
+3889.2 TEL | (proxy checking local liveness)
+3889.2  15 | 2020-12-13T05:32:31+0000 [Poll#info] Checkpoint
+3935.4 TEL | (proxy checking local liveness)
+3935.7  15 | 2020-12-13T05:37:59+0000 [Poll#info] Checkpoint
+4222.5 TEL | (proxy checking local liveness)
+4222.5  15 | 2020-12-13T05:38:04+0000 [Poll#info] Checkpoint
+4264.0 TEL | (proxy checking local liveness)
+4270.5  15 | 2020-12-13T05:43:34+0000 [Poll#info] Checkpoint
+4271.7 TEL | (proxy checking local liveness)
+4271.8  15 | 2020-12-13T05:43:36+0000 [Poll#info] Checkpoint
+4563.2 TEL | (proxy checking local liveness)
+4563.2  15 | 2020-12-13T05:48:27+0000 [Poll#info] Checkpoint
+4568.4 TEL | (proxy checking local liveness)
+4568.7  15 | 2020-12-13T05:48:32+0000 [Poll#info] Checkpoint
+4606.0 TEL | (proxy checking local liveness)
+4606.2  15 | 2020-12-13T05:49:10+0000 [Poll#info] Checkpoint
+4907.9 TEL | (proxy checking local liveness)
+4910.5  15 | 2020-12-13T05:54:13+0000 [Poll#info] Checkpoint
+4937.0 TEL | (proxy checking local liveness)
+4941.3  15 | 2020-12-13T05:54:45+0000 [Poll#info] Checkpoint
+5240.7 TEL | (proxy checking local liveness)
+5249.4  15 | 2020-12-13T05:59:45+0000 [Poll#info] Checkpoint
+5257.8 TEL | (proxy checking local liveness)
+5271.6  15 | 2020-12-13T06:00:09+0000 [Poll#info] Checkpoint
+5276.8 TEL | (proxy checking local liveness)
+5277.3  15 | 2020-12-13T06:00:21+0000 [Poll#info] Checkpoint
+7116.3 TEL | (proxy checking local liveness)
+7116.3  15 | 2020-12-13T06:00:31+0000 [Poll#info] Checkpoint
+7147.8 TEL | (proxy checking local liveness)
+7160.6  15 | 2020-12-13T06:31:43+0000 [Poll#info] Checkpoint
+7160.7 TEL | (proxy checking local liveness)
+7161.3  15 | 2020-12-13T06:31:45+0000 [Poll#info] Checkpoint
+7464.1 TEL | (proxy checking local liveness)
+7464.1  15 | 2020-12-13T06:32:01+0000 [Poll#info] Checkpoint
+7495.4 TEL | (proxy checking local liveness)
+7504.4  15 | 2020-12-13T06:37:27+0000 [Poll#info] Checkpoint
+7507.8 TEL | (proxy checking local liveness)
+7507.9  15 | 2020-12-13T06:37:32+0000 [Poll#info] Checkpoint
+7828.5 TEL | (proxy checking local liveness)
+7842.4 TEL | (proxy checking local liveness)
+7842.9  15 | 2020-12-13T06:43:00+0000 [Poll#info] Checkpoint
+7842.9  15 | 2020-12-13T06:43:06+0000 [Poll#info] Checkpoint
+8142.9 TEL | (proxy checking local liveness)
+8142.9  15 | 2020-12-13T06:48:07+0000 [Poll#info] Checkpoint
+8176.8 TEL | (proxy checking local liveness)
+8186.7  15 | 2020-12-13T06:48:43+0000 [Poll#info] Checkpoint
+8479.4 TEL | (proxy checking local liveness)
+8479.4  15 | 2020-12-13T06:49:01+0000 [Poll#info] Checkpoint
+8484.6 TEL | (proxy checking local liveness)
+8484.6  15 | 2020-12-13T06:53:48+0000 [Poll#info] Checkpoint
+8506.9 TEL | (proxy checking local liveness)
+8514.6  15 | 2020-12-13T06:54:13+0000 [Poll#info] Checkpoint
+8527.7 TEL | (proxy checking local liveness)
+8528.0  15 | 2020-12-13T06:54:32+0000 [Poll#info] Checkpoint
+8841.5 TEL | (proxy checking local liveness)
+8852.4  15 | 2020-12-13T06:59:54+0000 [Poll#info] Checkpoint
+8863.4 TEL | (proxy checking local liveness)
+8863.8  15 | 2020-12-13T07:00:07+0000 [Poll#info] Checkpoint
+9177.4 TEL | (proxy checking local liveness)
+9189.3  15 | 2020-12-13T07:05:30+0000 [Poll#info] Checkpoint
+9193.8 TEL | (proxy checking local liveness)
+9195.7  15 | 2020-12-13T07:05:39+0000 [Poll#info] Checkpoint
+11311.7 TEL | (proxy checking local liveness)
+11326.7  15 | 2020-12-13T07:41:03+0000 [Poll#info] Checkpoint
+11330.5 TEL | (proxy checking local liveness)
+11339.8  15 | 2020-12-13T07:41:19+0000 [Poll#info] Checkpoint
+11347.7 TEL | (proxy checking local liveness)
+11348.0  15 | 2020-12-13T07:41:32+0000 [Poll#info] Checkpoint
+11672.3 TEL | (proxy checking local liveness)
+11683.9 TEL | (proxy checking local liveness)
+11683.9  15 | 2020-12-13T07:46:59+0000 [Poll#info] Checkpoint
+11684.6  15 | 2020-12-13T07:47:08+0000 [Poll#info] Checkpoint
+11998.1 TEL | (proxy checking local liveness)
+12000.1  15 | 2020-12-13T07:52:23+0000 [Poll#info] Checkpoint
+12017.8 TEL | (proxy checking local liveness)
+12019.5 TEL | (proxy checking local liveness)
+12022.9  15 | 2020-12-13T07:52:46+0000 [Poll#info] Checkpoint
+12022.9  15 | 2020-12-13T07:52:46+0000 [Poll#info] Checkpoint
+12333.0 TEL | (proxy checking local liveness)
+12336.3  15 | 2020-12-13T07:57:57+0000 [Poll#info] Checkpoint
+12343.5 TEL | (proxy checking local liveness)
+12348.3  15 | 2020-12-13T07:58:11+0000 [Poll#info] Checkpoint
+12367.5 TEL | (proxy checking local liveness)
+12367.6  15 | 2020-12-13T07:58:31+0000 [Poll#info] Checkpoint
+12678.5 TEL | (proxy checking local liveness)
+12680.7  15 | 2020-12-13T08:03:44+0000 [Poll#info] Checkpoint
+12703.1 TEL | (proxy checking local liveness)
+12703.3  15 | 2020-12-13T08:04:07+0000 [Poll#info] Checkpoint
+13022.6 TEL | (proxy checking local liveness)
+13038.4  15 | 2020-12-13T08:09:33+0000 [Poll#info] Checkpoint
+13038.5 TEL | (proxy checking local liveness)
+13038.9  15 | 2020-12-13T08:09:42+0000 [Poll#info] Checkpoint
+13344.8 TEL | (proxy checking local liveness)
+13353.8  15 | 2020-12-13T08:14:53+0000 [Poll#info] Checkpoint
+13359.7 TEL | (proxy checking local liveness)
+13362.7 TEL | (proxy checking local liveness)
+13367.6  15 | 2020-12-13T08:15:06+0000 [Poll#info] Checkpoint
+13367.6  15 | 2020-12-13T08:15:10+0000 [Poll#info] Checkpoint
+20578.6 TEL | (proxy checking local liveness)
+20578.6  15 | 2020-12-13T08:15:31+0000 [Poll#info] Checkpoint
+20603.6 TEL | (proxy checking local liveness)
+20610.1  15 | 2020-12-13T10:15:51+0000 [Poll#info] Checkpoint
+20628.8 TEL | (proxy checking local liveness)
+20629.7  15 | 2020-12-13T10:16:13+0000 [Poll#info] Checkpoint
+20930.5 TEL | (proxy checking local liveness)
+20933.1  15 | 2020-12-13T10:16:34+0000 [Poll#info] Checkpoint
+20956.0 TEL | (proxy checking local liveness)
+20967.9 TEL | (proxy checking local liveness)
+20968.9  15 | 2020-12-13T10:21:46+0000 [Poll#info] Checkpoint
+20968.9  15 | 2020-12-13T10:21:53+0000 [Poll#info] Checkpoint
+21260.0 TEL | (proxy checking local liveness)
+21260.0  15 | 2020-12-13T10:22:02+0000 [Poll#info] Checkpoint
+21295.8 TEL | (proxy checking local liveness)
+21303.1  15 | 2020-12-13T10:27:26+0000 [Poll#info] Checkpoint
+21601.2 TEL | (proxy checking local liveness)
+21601.3  15 | 2020-12-13T10:32:25+0000 [Poll#info] Checkpoint
+21607.4 TEL | (proxy checking local liveness)
+21607.4  15 | 2020-12-13T10:32:31+0000 [Poll#info] Checkpoint
+21640.3 TEL | (proxy checking local liveness)
+21642.9  15 | 2020-12-13T10:33:06+0000 [Poll#info] Checkpoint
+21942.9 TEL | (proxy checking local liveness)
+21942.9  15 | 2020-12-13T10:38:07+0000 [Poll#info] Checkpoint
+21974.6 TEL | (proxy checking local liveness)
+21976.7  15 | 2020-12-13T10:38:40+0000 [Poll#info] Checkpoint
+22279.7 TEL | (proxy checking local liveness)
+22279.7  15 | 2020-12-13T10:39:02+0000 [Poll#info] Checkpoint
+22289.0 TEL | (proxy checking local liveness)
+22291.1  15 | 2020-12-13T10:43:53+0000 [Poll#info] Checkpoint
+22312.7 TEL | (proxy checking local liveness)
+22314.7  15 | 2020-12-13T10:44:18+0000 [Poll#info] Checkpoint
+22609.1 TEL | (proxy checking local liveness)
+22609.1  15 | 2020-12-13T10:44:31+0000 [Poll#info] Checkpoint
+22642.2 TEL | (proxy checking local liveness)
+22647.0 TEL | (proxy checking local liveness)
+22653.7  15 | 2020-12-13T10:49:48+0000 [Poll#info] Checkpoint
+22655.0  15 | 2020-12-13T10:49:57+0000 [Poll#info] Checkpoint
+22657.5 TEL | (proxy checking local liveness)
+22657.6  15 | 2020-12-13T10:50:01+0000 [Poll#info] Checkpoint
+29888.3  22 | 29849.0 TEL | [6] SSH port forward (exposed ports): exit 255
+29888.5  22 | 29849.2 TEL | END SPAN runner.py:729(wait_for_exit) 29848.5s
+29888.5  22 | 29849.2 >>> |
+29888.5  22 | 29849.3 >>> | Background process (SSH port forward (exposed ports)) exited with return code 255. Command was:
+29888.5  22 | 29849.3 >>> |   ssh -N -oServerAliveInterval=1 -oServerAliveCountMax=10 -F /dev/null -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null -oConnectTimeout=5 -q -p 38023 telepresence@127.0.0.1 -R '*:8080:127.0.0.1:8080'
+29888.6  22 | 29849.3 >>> |
+29888.6  22 | 29849.3 >>> |
+29888.6  22 | 29849.4 >>> | Proxy to Kubernetes exited. This is typically due to a lost connection.
+29888.6  22 | 29849.4 >>> |
+29888.6  22 | 29849.4 TEL | EXITING with status code 255
+29888.9  22 | 
+29888.9  22 | T: Background process (SSH port forward (exposed ports)) exited with return code 255. Command was:
+29888.9  22 | T:   ssh -N -oServerAliveInterval=1 -oServerAliveCountMax=10 -F /dev/null -oStrictHostKeyChecking=no -oUserKnownHostsFile=/dev/null -oConnectTimeout=5 -q -p 38023 telepresence@127.0.0.1 -R '*:8080:127.0.0.1:8080'
+29888.9  22 | 
+29888.9  22 | 
+29888.9  22 | T: Proxy to Kubernetes exited. This is typically due to a lost connection.
+29888.9  22 | 
+29900.9 TEL | (proxy checking local liveness)
+29903.1 TEL | (proxy checking local liveness)
+29907.7  15 | 2020-12-13T12:50:49+0000 [Poll#info] Checkpoint
+29907.7  15 | 2020-12-13T12:50:50+0000 [Poll#info] Checkpoint
+30199.1 TEL | (proxy checking local liveness)
+30199.1  15 | 2020-12-13T12:55:43+0000 [Poll#info] Checkpoint
+30223.6 TEL | (proxy checking local liveness)
+30227.7  15 | 2020-12-13T12:56:08+0000 [Poll#info] Checkpoint
+30248.3 TEL | (proxy checking local liveness)
+30248.5  15 | 2020-12-13T12:56:32+0000 [Poll#info] Checkpoint
+30539.6 TEL | (proxy checking local liveness)
+30539.6  15 | 2020-12-13T13:01:23+0000 [Poll#info] Checkpoint
+30551.8 TEL | (proxy checking local liveness)
+30556.4  15 | 2020-12-13T13:01:38+0000 [Poll#info] Checkpoint
+30582.1 TEL | (proxy checking local liveness)
+30582.3  15 | 2020-12-13T13:02:06+0000 [Poll#info] Checkpoint
+30886.5 TEL | (proxy checking local liveness)
+30890.0  15 | 2020-12-13T13:07:11+0000 [Poll#info] Checkpoint
+30914.4 TEL | (proxy checking local liveness)
+30916.9  15 | 2020-12-13T13:07:40+0000 [Poll#info] Checkpoint
+31234.8 TEL | (proxy checking local liveness)
+31234.8 TEL | (proxy checking local liveness)
+31244.7  15 | 2020-12-13T13:13:03+0000 [Poll#info] Checkpoint
+31244.7  15 | 2020-12-13T13:13:03+0000 [Poll#info] Checkpoint
+31248.9 TEL | (proxy checking local liveness)
+31254.4  15 | 2020-12-13T13:13:14+0000 [Poll#info] Checkpoint
+31551.2 TEL | (proxy checking local liveness)
+31551.2  15 | 2020-12-13T13:13:33+0000 [Poll#info] Checkpoint
+31580.9 TEL | (proxy checking local liveness)
+31585.4  15 | 2020-12-13T13:18:48+0000 [Poll#info] Checkpoint
+31599.7 TEL | (proxy checking local liveness)
+31600.1  15 | 2020-12-13T13:19:04+0000 [Poll#info] Checkpoint
+31936.3 TEL | (proxy checking local liveness)
+31936.3 TEL | (proxy checking local liveness)
+31947.6  15 | 2020-12-13T13:24:44+0000 [Poll#info] Checkpoint
+31947.6  15 | 2020-12-13T13:24:44+0000 [Poll#info] Checkpoint
+33188.5 TEL | (proxy checking local liveness)
+33188.5  15 | 2020-12-13T13:45:32+0000 [Poll#info] Checkpoint
+33217.4 TEL | (proxy checking local liveness)
+33217.4  15 | 2020-12-13T13:46:01+0000 [Poll#info] Checkpoint
+33247.4 TEL | (proxy checking local liveness)
+33247.4  15 | 2020-12-13T13:46:31+0000 [Poll#info] Checkpoint
+33277.4 TEL | (proxy checking local liveness)
+33277.4  15 | 2020-12-13T13:47:01+0000 [Poll#info] Checkpoint
+33307.4 TEL | (proxy checking local liveness)
+33307.4  15 | 2020-12-13T13:47:31+0000 [Poll#info] Checkpoint
+33337.4 TEL | (proxy checking local liveness)
+33337.4  15 | 2020-12-13T13:48:01+0000 [Poll#info] Checkpoint
+33367.4 TEL | (proxy checking local liveness)
+33367.4  15 | 2020-12-13T13:48:31+0000 [Poll#info] Checkpoint
+33397.4 TEL | (proxy checking local liveness)
+33397.4  15 | 2020-12-13T13:49:01+0000 [Poll#info] Checkpoint
+33427.4 TEL | (proxy checking local liveness)
+33427.4  15 | 2020-12-13T13:49:31+0000 [Poll#info] Checkpoint
+33457.4 TEL | (proxy checking local liveness)
+33457.4  15 | 2020-12-13T13:50:01+0000 [Poll#info] Checkpoint
+33487.4 TEL | (proxy checking local liveness)
+33487.4  15 | 2020-12-13T13:50:31+0000 [Poll#info] Checkpoint
+33517.4 TEL | (proxy checking local liveness)
+33517.4  15 | 2020-12-13T13:51:01+0000 [Poll#info] Checkpoint
+33547.4 TEL | (proxy checking local liveness)
+33547.4  15 | 2020-12-13T13:51:31+0000 [Poll#info] Checkpoint
+33577.4 TEL | (proxy checking local liveness)
+33577.4  15 | 2020-12-13T13:52:01+0000 [Poll#info] Checkpoint
+33607.4 TEL | (proxy checking local liveness)
+33607.4  15 | 2020-12-13T13:52:31+0000 [Poll#info] Checkpoint
+33637.4 TEL | (proxy checking local liveness)
+33637.4  15 | 2020-12-13T13:53:01+0000 [Poll#info] Checkpoint
+33667.4 TEL | (proxy checking local liveness)
+33667.4  15 | 2020-12-13T13:53:31+0000 [Poll#info] Checkpoint
+33697.4 TEL | (proxy checking local liveness)
+33697.4  15 | 2020-12-13T13:54:01+0000 [Poll#info] Checkpoint
+33727.4 TEL | (proxy checking local liveness)
+33727.4  15 | 2020-12-13T13:54:31+0000 [Poll#info] Checkpoint
+33757.4 TEL | (proxy checking local liveness)
+33757.4  15 | 2020-12-13T13:55:01+0000 [Poll#info] Checkpoint
+33787.4 TEL | (proxy checking local liveness)
+33787.4  15 | 2020-12-13T13:55:31+0000 [Poll#info] Checkpoint
+33817.4 TEL | (proxy checking local liveness)
+33817.4  15 | 2020-12-13T13:56:01+0000 [Poll#info] Checkpoint
+33847.4 TEL | (proxy checking local liveness)
+33847.5  15 | 2020-12-13T13:56:31+0000 [Poll#info] Checkpoint
+33877.4 TEL | (proxy checking local liveness)
+33877.4  15 | 2020-12-13T13:57:01+0000 [Poll#info] Checkpoint
+33907.4 TEL | (proxy checking local liveness)
+33907.4  15 | 2020-12-13T13:57:31+0000 [Poll#info] Checkpoint
+33937.4 TEL | (proxy checking local liveness)
+33937.4  15 | 2020-12-13T13:58:01+0000 [Poll#info] Checkpoint
+33967.4 TEL | (proxy checking local liveness)
+33967.4  15 | 2020-12-13T13:58:31+0000 [Poll#info] Checkpoint
+33997.4 TEL | (proxy checking local liveness)
+33997.4  15 | 2020-12-13T13:59:01+0000 [Poll#info] Checkpoint
+34027.4 TEL | (proxy checking local liveness)
+34027.4  15 | 2020-12-13T13:59:31+0000 [Poll#info] Checkpoint
+34057.4 TEL | (proxy checking local liveness)
+34057.4  15 | 2020-12-13T14:00:01+0000 [Poll#info] Checkpoint
+34087.4 TEL | (proxy checking local liveness)
+34087.4  15 | 2020-12-13T14:00:31+0000 [Poll#info] Checkpoint
+34117.4 TEL | (proxy checking local liveness)
+34117.4  15 | 2020-12-13T14:01:01+0000 [Poll#info] Checkpoint
+34147.4 TEL | (proxy checking local liveness)
+34147.4  15 | 2020-12-13T14:01:31+0000 [Poll#info] Checkpoint
+34177.4 TEL | (proxy checking local liveness)
+34177.4  15 | 2020-12-13T14:02:01+0000 [Poll#info] Checkpoint
+34207.4 TEL | (proxy checking local liveness)
+34207.4  15 | 2020-12-13T14:02:31+0000 [Poll#info] Checkpoint
+34237.4 TEL | (proxy checking local liveness)
+34237.4  15 | 2020-12-13T14:03:01+0000 [Poll#info] Checkpoint
+34267.4 TEL | (proxy checking local liveness)
+34267.4  15 | 2020-12-13T14:03:31+0000 [Poll#info] Checkpoint
+34297.4 TEL | (proxy checking local liveness)
+34297.4  15 | 2020-12-13T14:04:01+0000 [Poll#info] Checkpoint
+34327.4 TEL | (proxy checking local liveness)
+34327.4  15 | 2020-12-13T14:04:31+0000 [Poll#info] Checkpoint
+34357.4 TEL | (proxy checking local liveness)
+34357.4  15 | 2020-12-13T14:05:01+0000 [Poll#info] Checkpoint
+34387.4 TEL | (proxy checking local liveness)
+34387.4  15 | 2020-12-13T14:05:31+0000 [Poll#info] Checkpoint
+34417.4 TEL | (proxy checking local liveness)
+34417.4  15 | 2020-12-13T14:06:01+0000 [Poll#info] Checkpoint
+34447.4 TEL | (proxy checking local liveness)
+34447.4  15 | 2020-12-13T14:06:31+0000 [Poll#info] Checkpoint
+34477.4 TEL | (proxy checking local liveness)
+34477.4  15 | 2020-12-13T14:07:01+0000 [Poll#info] Checkpoint
+34507.4 TEL | (proxy checking local liveness)
+34507.4  15 | 2020-12-13T14:07:31+0000 [Poll#info] Checkpoint
+34537.4 TEL | (proxy checking local liveness)
+34537.4  15 | 2020-12-13T14:08:01+0000 [Poll#info] Checkpoint
+34567.4 TEL | (proxy checking local liveness)
+34567.4  15 | 2020-12-13T14:08:31+0000 [Poll#info] Checkpoint
+34597.4 TEL | (proxy checking local liveness)
+34597.4  15 | 2020-12-13T14:09:01+0000 [Poll#info] Checkpoint
+34627.4 TEL | (proxy checking local liveness)
+34627.4  15 | 2020-12-13T14:09:31+0000 [Poll#info] Checkpoint
+34657.4 TEL | (proxy checking local liveness)
+34657.4  15 | 2020-12-13T14:10:01+0000 [Poll#info] Checkpoint
+34687.4 TEL | (proxy checking local liveness)
+34687.4  15 | 2020-12-13T14:10:31+0000 [Poll#info] Checkpoint
+34717.4 TEL | (proxy checking local liveness)
+34717.4  15 | 2020-12-13T14:11:01+0000 [Poll#info] Checkpoint
+34747.4 TEL | (proxy checking local liveness)
+34747.4  15 | 2020-12-13T14:11:31+0000 [Poll#info] Checkpoint
+34777.4 TEL | (proxy checking local liveness)
+34777.4  15 | 2020-12-13T14:12:01+0000 [Poll#info] Checkpoint
+34807.4 TEL | (proxy checking local liveness)
+34807.4  15 | 2020-12-13T14:12:31+0000 [Poll#info] Checkpoint
+34837.4 TEL | (proxy checking local liveness)
+34837.4  15 | 2020-12-13T14:13:01+0000 [Poll#info] Checkpoint
